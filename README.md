@@ -1,4 +1,4 @@
-# Ball-Platform-Game.
+# Ball-Platform-Game.🏀
 a simple console-based game where you control a ball navigating through a series of moving platforms while dodging enemies.
 
 How to Play? Objective: Navigate the ball to the exit door located at the bottom of the screen.
